@@ -1,8 +1,8 @@
 # Music Player
 **This is a music player with various functioning buttons that has a queue list as well as shuffle and repeat**
 
-![music-player](https://nima-frontend.github.io/music-player/)
-- [Demo Project](https://nima-frontend.github.io/snake-game/)
+![music-player]()
+- [Demo Project](https://nima-frontend.github.io/music-player/)
 - Developed by Nima Pourdad
 - Created - 2025-2-7
 - Technologies Used - Html , css , javascript
