@@ -1,7 +1,7 @@
 # Music Player
 **This is a music player with various functioning buttons that has a queue list as well as shuffle and repeat**
 
-![Snake Game](https://github.com/user-attachments/assets/5df0f090-97c0-46aa-8cec-fdeb637db0a7)
+![music-player](https://github.com/user-attachments/assets/f2e96df3-7417-475a-b7cc-aba01cd1908a)
 - [Demo Project](https://nima-frontend.github.io/snake-game/)
 - Developed by Nima Pourdad
 - Created - 2025-2-7
